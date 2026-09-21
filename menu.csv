@@ -1,0 +1,6 @@
+Food_ID,Food_Name,Category,Price,Availability
+F001,Veg Burger,Fast Food,80,Yes
+F002,Pizza,Fast Food,140,Yes
+F003,Sandwich,Snacks,60,Yes
+F004,French Fries,Snacks,50,Yes
+F005,Cool Drink,Beverages,40,Yes

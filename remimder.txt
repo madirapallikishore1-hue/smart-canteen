@@ -1,0 +1,16 @@
+Email: kishore@gmail.com
+Password: 123456
+
+
+
+cd /d D:\smart_canteen
+
+
+py -m streamlit run app.py 
+
+
+
+
+
+
+http://localhost:8501/
