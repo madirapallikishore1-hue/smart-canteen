@@ -1,40 +1,5 @@
-Email: kishore@gmail.com
-Password: 123456
-
-
-
-cd /d D:\smart_canteen
-
-
-py -m streamlit run app.py 
-
-
-
-
-
-
-http://localhost:8501/
-
-
-
-openpyxl
 streamlit
 pandas
+openpyxl
 streamlit-cookies-controller
 twilio
-
-
-
-
-
-
-9876543212 owner 
-
-
-
-Kishore (STU001): 9876543210
-Ravi (STU002): 9876543211
-
-
-cd /d D:\smart_canteen
-py -m streamlit run "app 2.py"
